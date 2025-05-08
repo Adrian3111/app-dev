@@ -8,6 +8,6 @@ My First Repository
 
 **Action/Comedy**.
 
-1. *Dpierman no way home
+1. *Spierman no way home
 2. *Avengers End Game
 3. *Minecraft
