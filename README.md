@@ -1,8 +1,13 @@
 # app-dev
 My First Repository
-my fav movie
-ACTION/COMEDY
+#  *My fav movie*
 
-1.spiderman no way home
-2.batman vs superman
-3.minecraft
+
+
+##  Overview
+
+**Action/Comedy**.
+
+1. *Dpierman no way home
+2. *Avengers End Game
+3. *Minecraft
